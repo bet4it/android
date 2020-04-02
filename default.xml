@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="aosp"
-           fetch="https://android.googlesource.com"
+           fetch="https://aosp.tuna.tsinghua.edu.cn"
            review="review.source.android.com" />
 
   <remote  name="github"
-           fetch=".."
+           fetch="https://mirrors.tuna.tsinghua.edu.cn/git/lineageOS"
            review="review.cyanogenmod.org" />
 
   <default revision="gingerbread"
