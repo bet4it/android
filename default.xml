@@ -2,12 +2,12 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com"
+           fetch="https://aosp.tuna.tsinghua.edu.cn"
            review="android-review.googlesource.com"
            revision="refs/tags/android-5.1.0_r3" />
 
   <remote  name="github"
-           fetch=".."
+           fetch="https://mirrors.tuna.tsinghua.edu.cn/git/lineageOS"
            review="review.cyanogenmod.org" />
 
   <remote  name="private"
