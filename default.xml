@@ -2,10 +2,10 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com/" />
+           fetch="https://aosp.tuna.tsinghua.edu.cn/" />
 
   <remote  name="github"
-           fetch=".."
+           fetch="https://mirrors.tuna.tsinghua.edu.cn/git/lineageOS"
            review="review.cyanogenmod.org" />
 
   <remote  name="private"
